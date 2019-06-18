@@ -1,0 +1,16 @@
+{
+"companyName": "GDA 2018-19 OccOc",
+"productName": "Occultus Ocularus",
+"productVersion": "0.5.3",
+"dataUrl": "Occultus Occularus.data.unityweb",
+"wasmCodeUrl": "Occultus Occularus.wasm.code.unityweb",
+"wasmFrameworkUrl": "Occultus Occularus.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#B8D2F0",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
